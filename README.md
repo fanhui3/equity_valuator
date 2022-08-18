@@ -5,4 +5,4 @@ This script connects to yahoo finance API and put in the past 4 years' data of t
 * example 1 facebook : ticker = yf.Ticker("fb")
 * example 2 Tencent (HKEX) : ticker = yf.Ticker("0700.HK")
 * example 3 DBS (SGX) : ticker = yf.Ticker("D05.SI")
-Do check the ticker in yahoo finance site for the ticker and the market code if the stocks is outside of US market
+\Do check the ticker in yahoo finance site for the ticker and the market code if the stocks is outside of US market
