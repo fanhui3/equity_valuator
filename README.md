@@ -1,0 +1,2 @@
+# equity_valuator
+This script connects to yahoo finance API and put in the past 4 years' data of the chosen stocks. The first part of the script visualize key indicators of financial records/health. The second part valuates the equity using 1) Discounted Cash Flow Model on Operating Cash Flow, Net Income and Free Cash Flow, and 2) Perpetual growth of Dividend (Dividend Discount Model) and Free Cash Flow
